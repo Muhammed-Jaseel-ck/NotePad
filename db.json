@@ -1,14 +1,53 @@
 {
   "notes": [
     {
-      "id": "1",
-      "title": "Team Meeting",
-      "content": "Discuss Q1 roadmap and deadlines...",
+      "title": "",
+      "content": "jaseel",
       "color": "yellow",
-      "tags": ["work"],
+      "tags": [
+        "work"
+      ],
       "archived": false,
-      "createdAt": "2026-02-10T10:00:00Z",
-      "updatedAt": "2026-02-10T10:00:00Z"
+      "createdAt": "2026-10-19T05:10:17.016Z",
+      "updatedAt": "2026-10-19T05:10:17.016Z",
+      "id": "gOJkAlW3UQk"
+    },
+    {
+      "title": "",
+      "content": "hi jaseeel from bridgeon",
+      "color": "green",
+      "tags": [
+        "work"
+      ],
+      "archived": true,
+      "createdAt": "2026-10-19T05:15:40.094Z",
+      "updatedAt": "2026-10-19T05:15:40.094Z",
+      "id": "Vp_ZlcNhyBU"
+    },
+    {
+      "title": "",
+      "content": "gh",
+      "color": "orange",
+      "tags": [
+        "work"
+      ],
+      "archived": true,
+      "createdAt": "2026-10-19T05:17:08.154Z",
+      "updatedAt": "2026-10-19T05:17:08.154Z",
+      "id": "6IRijxzbEBI"
+    },
+    {
+      "title": "",
+      "content": "hgj",
+      "color": "purple",
+      "tags": [
+        "work"
+      ],
+      "archived": false,
+      "createdAt": "2026-10-19T05:17:11.458Z",
+      "updatedAt": "2026-10-19T05:17:11.458Z",
+      "id": "xdERRCNT85o"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }

@@ -36,7 +36,7 @@ export const NotesProvider = ({ children }) => {
       const newNote = {
         title: noteData.title,
         content: noteData.content,
-        color: "yellow",
+        color: noteData.color || "yellow",
         tags: ["work"],
         archived: false,
         createdAt: new Date().toISOString(),
